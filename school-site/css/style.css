@@ -76,7 +76,6 @@ header, footer {
    may need to be different in order to style the page correctly. */
 
 
-
 /* Imported Typfaces */
 
 @font-face {
@@ -92,7 +91,6 @@ header, footer {
     font-weight: normal;
     font-style: normal;
 }
-
 
 /* Typography Styles */
 
@@ -137,7 +135,6 @@ figcaption {
     margin-bottom: 2rem;
 }
 
-
 /* Link Styling */
 
 a {
@@ -154,7 +151,6 @@ a:focus, a:hover {
 }
 
 /* List Styling */
-
 
 ul {
     margin: 1rem 0;
@@ -199,12 +195,12 @@ nav a:active {
     background-color: #000;
 }
 
-
 /* Footer Styles */
 
 footer {
     text-align: center;
 }
+
 
 
 
